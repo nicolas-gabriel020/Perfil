@@ -4,14 +4,14 @@
 🚀 Focado em JavaScript
 📚 Em constante evolução
 
-
+---
 
 ## 🧠 Sobre mim
 
 Sou um estudante de programação em busca de evolução constante.
 Atualmente focado em **JavaScript**, construindo uma base sólida com estudos e projetos práticos.
 
-
+---
 
 ## 🛠️ Tecnologias
 
@@ -31,7 +31,7 @@ Atualmente focado em **JavaScript**, construindo uma base sólida com estudos e 
 
 * Manutenção de computadores
 
-
+---
 
 ## 📚 Formação e estudos
 
@@ -47,18 +47,18 @@ Atualmente focado em **JavaScript**, construindo uma base sólida com estudos e 
 * Informática básica (Word, Excel, PowerPoint)
 * Manutenção de computadores
 
-
+---
 
 ## 🎯 Objetivo
 
 Conseguir minha primeira oportunidade na área de tecnologia e evoluir como desenvolvedor.
 
-
+---
 
 ## 📫 Contato
 
 * Email: gabrielnicolas018@gmail.com
 
-
+---
 
 ⭐ Obrigado por visitar meu perfil!
