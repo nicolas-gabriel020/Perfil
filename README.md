@@ -57,7 +57,7 @@ Conseguir minha primeira oportunidade na área de tecnologia e evoluir como dese
 
 ## 📫 Contato
 
-* Email: [seuemail@email.com](mailto:seuemail@email.com)
+* Email: [gabrielnicolas018@gamil.com](mailto:gabrielnicolas018@gamil.com)
 
 ---
 
