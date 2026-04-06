@@ -26,8 +26,6 @@ Atualmente focado em **JavaScript**, construindo minha base com cursos e prátic
 * Word
 * Excel
 * PowerPoint
-* Internet 11
-* Windows 11
 
 ### 🔧 Outros conhecimentos
 
@@ -45,9 +43,7 @@ Atualmente focado em **JavaScript**, construindo minha base com cursos e prátic
 
 🏫 **Control Informática (curso local)**
 
-* HTML e CSS 3.0
-* internet 11
-* Windows 11
+* HTML e CSS
 * Informática básica (Word, Excel, PowerPoint)
 * Manutenção de computadores
 
@@ -61,7 +57,7 @@ Conseguir minha primeira oportunidade na área de tecnologia e evoluir como dese
 
 ## 📫 Contato
 
-* Email: [gabrielnicolas018@gamil.com](mailto:gabrielnicolas018@gamil.com)
+* Email: [gabrielnicolas018@gmail.com](mailto:gabrielnicolas018@gmail.com)
 
 ---
 
