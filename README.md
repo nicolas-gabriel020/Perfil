@@ -9,7 +9,7 @@
 ## 🧠 Sobre mim
 
 Sou um estudante de programação em busca de evolução constante.
-Atualmente focado em **JavaScript**, construindo minha base e desenvolvendo projetos práticos.
+Atualmente focado em **JavaScript**, construindo minha base com cursos e prática.
 
 ---
 
@@ -33,10 +33,19 @@ Atualmente focado em **JavaScript**, construindo minha base e desenvolvendo proj
 
 ---
 
-## 📈 Atualmente estudando
+## 📚 Formação e estudos
 
-* JavaScript (lógica e prática)
+🎓 **Curso em Vídeo**
+
+* Lógica de Programação
+* JavaScript
+* HTML e CSS
 * Git e GitHub
+
+🏫 **Control Informática (curso local)**
+
+* Informática básica (Word, Excel, PowerPoint)
+* Manutenção de computadores
 
 ---
 
@@ -53,4 +62,3 @@ Conseguir minha primeira oportunidade na área de tecnologia e evoluir como dese
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-
