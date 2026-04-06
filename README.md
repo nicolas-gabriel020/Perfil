@@ -26,6 +26,8 @@ Atualmente focado em **JavaScript**, construindo minha base com cursos e prátic
 * Word
 * Excel
 * PowerPoint
+* Internet 11
+* Windows 11
 
 ### 🔧 Outros conhecimentos
 
@@ -39,11 +41,13 @@ Atualmente focado em **JavaScript**, construindo minha base com cursos e prátic
 
 * Lógica de Programação
 * JavaScript
-* HTML e CSS
 * Git e GitHub
 
 🏫 **Control Informática (curso local)**
 
+* HTML e CSS 3.0
+* internet 11
+* Windows 11
 * Informática básica (Word, Excel, PowerPoint)
 * Manutenção de computadores
 
