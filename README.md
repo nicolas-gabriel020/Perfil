@@ -9,7 +9,7 @@
 ## 🧠 Sobre mim
 
 Sou um estudante de programação em busca de evolução constante.
-Atualmente focado em **JavaScript**, construindo minha base com cursos e prática.
+Atualmente focado em **JavaScript**, construindo uma base sólida com estudos e projetos práticos.
 
 
 
